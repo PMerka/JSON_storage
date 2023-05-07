@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "day": "Mon May 01 2023",
+    "value": 1
+  },
+  {
+    "id": 2,
+    "day": "Tue May 02 2023",
+    "value": 2
+  },
+  {
+    "id": 3,
+    "day": "Wed May 03 2023",
+    "value": 3
+  },
+  {
+    "id": 4,
+    "day": "Thu May 04 2023",
+    "value": 2
+  },
+  {
+    "id": 5,
+    "day": "Fri May 05 2023",
+    "value": 3
+  },
+  {
+    "id": 6,
+    "day": "Sat May 06 2023",
+    "value": 5
+  },
+  {
+    "id": 7,
+    "day": "Sat May 06 2023",
+    "value": 4
+  },
+]
