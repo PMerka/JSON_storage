@@ -1,0 +1,26 @@
+[
+    {
+        "CiruitId": 101,
+        "Name": "Prohlídková trasa Pilsner Urquell",
+        "Capacity": 40,
+        "Duration": 110,
+        "MaxPrice": 380.0,
+        "Currency": "Kč",
+        "Languages": [
+            "cs-CZ",
+            "de-DE",
+            "en-GB"
+        ]
+    },
+    {
+        "CiruitId": 102,
+        "Name": "Prohlídka pivovaru Velkopopovický Kozel",
+        "Capacity": 20,
+        "Duration": 90,
+        "MaxPrice": 380.0,
+        "Currency": "Kč",
+        "Languages": [
+            "cs-CZ"
+        ]
+    }
+]
